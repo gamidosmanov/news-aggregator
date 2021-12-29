@@ -9,9 +9,6 @@ BEGIN;
 
     GRANT ALL ON SCHEMA rss_aggr TO postgres;
 
-    DROP TABLE IF EXISTS
-        rss_aggr.posts;
-
     CREATE TABLE IF NOT EXISTS rss_aggr.posts
     (
         id SERIAL,
