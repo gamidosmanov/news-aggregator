@@ -1,0 +1,10 @@
+{
+    "links": [
+        "https://1prime.ru/export/rss2/index.xml",
+        "https://habr.com/ru/rss/hub/go/all/?fl=ru",
+        "https://habr.com/ru/rss/best/daily/?fl=ru",
+        "https://cprss.s3.amazonaws.com/golangweekly.com.xml",
+        "https://golangcode.com/index.xml"
+    ],
+    "requestPeriod": 5
+}

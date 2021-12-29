@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Лучшие публикации за сутки</title>
+    <link>https://habr.com/ru/top/daily/</link>
+    <description><![CDATA[Лучшие публикации за последние 24 часа]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Thu, 23 Dec 2021 17:40:57 GMT</pubDate>
+    
+      <image>
+        <link>https://habr.com/ru/</link>
+        <url>https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png</url>
+        <title>Хабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[«Безопасность» Госуслуг: пока кто-то развенчивает мифы, вот вам реальность]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597321/</guid>
+      <link>https://habr.com/ru/post/597321/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597321</link>
+      <description><![CDATA[<p>А вы знали, что электронная подпись юридического лица дает возможность заходить на "Госуслуги" <strong>частного лица</strong> и .... делать почти все, что угодно (в рамках возможностей ЛК), например, смотреть личные данные (недвижимость, обращения, заявления, налоги) и т. п.?</p><p>А что в Ваш личный кабинет на Госуслугах можно зайти даже по заблокированной подписи? Тоже не знали? Тогда  подробности под катом.</p> <a href="https://habr.com/ru/post/597321/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597321#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 04:51:01 GMT</pubDate>
+      <dc:creator>bromium</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[госуслуги]]></category><category><![CDATA[ЭП]]></category><category><![CDATA[электроннная подпись]]></category><category><![CDATA[УЦ]]></category><category><![CDATA[электронная отчетность]]></category><category><![CDATA[ЭЦП]]></category><category><![CDATA[ЭЦП - неправильный термин]]></category><category><![CDATA[никтоведьнечитаеттеги]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[«Инопланетный артефакт» — диск Сабу возрастом более пяти тысяч лет. Что же это такое на самом деле?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597367/</guid>
+      <link>https://habr.com/ru/post/597367/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597367</link>
+      <description><![CDATA[<p>Автор Лысый Камрад (<a href="https://habr.com/ru/users/LKamrad/" rel="noopener noreferrer nofollow"><u>@LKamrad</u></a>)  </p><p>Диск Сабу (инвентарный номер JE 71295) можно увидеть в Каирском музее под стеклом витрины в комнате №43. Ему более пяти тысяч лет, и он найден в гробнице "принца Сабу", недалеко от ступенчатой пирамиды фараона Джосера, но сам артефакт, как минимум, на два-три века старше этой самой древней египетской пирамиды.</p><p>Глядя на него, становится до какой-то степени понятен энтузиазм сторонников альтернативной истории и палеокосмического контакта - настолько необычно смотрится этот артефакт. </p><p>Легко представить, как с минуты на минуту сюда вбежит запыхавшийся гуманоид в серебристом комбинезоне и сообщит работникам музея, что пять тысяч лет назад оставил своему приятелю Сабу запасной трансфлюкатор от гипердрайва, дико извиняется, но ему необходимо забрать его прямо сейчас.</p> <a href="https://habr.com/ru/post/597367/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597367#habracut">Читать далеее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 06:51:44 GMT</pubDate>
+      <dc:creator>LKamrad</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category>
+      <category><![CDATA[История]]></category><category><![CDATA[Археология]]></category><category><![CDATA[технологии]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Три жизни Дмитрия Зимина]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597325/</guid>
+      <link>https://habr.com/ru/post/597325/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597325</link>
+      <description><![CDATA[<p>Дмитрий Зимин был великим человеком, прожившим три глубоких жизни: инженера, бизнесмена и филантропа. Легче всего его сравнить с Биллом Гейтсом. </p><p>Сначала родившийся в 1933 году потомок старообрядческого купеческого рода Дмитрий Зимин сделал блестящую инженерную карьеру, став к закату СССР лауреатом крупных премий, руководителем по разработкам в ведущем радиотехническом институте и замом главного конструктора системы противоракетной обороны вокруг Москвы. Ведь он отлично разбирался в фазированных антенные решётки + был сильным организатором.&nbsp;<a href="https://www.facebook.com/yuliy.lieb/posts/5218569058157488" rel="noopener noreferrer nofollow">Тут немного воспоминаний коллеги из тех времён</a>.</p><p><strong>В посвободневшей России 58-летний Зимин занялся амбициозными стартапами.</strong></p><p>Цитата из&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%B8%D0%BD,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" rel="noopener noreferrer nofollow">Википедии</a>:</p><p><em>"На фоне резкого сокращения оборонных заказов, 6 марта 1991 года зарегистрировал на базе Радиотехнического института малое предприятие КБ «Импульс». Первой разработкой фирмы стала система спутникового телевидения, которая была запущена в серийное производство на Вильнюсском заводе радиоизмерительных приборов (ВЗРИП) и продавалась в московском магазине «Эфир» на Тверской улице, но почти никакой прибыли этот проект не принёс. Следующим проектом была система кабельного телевидения АС-600, она также была запущена в серию и уже принесла небольшой доход. В 1991 году организовал группу технических экспертов внутри Радиотехнического института по разработке сотовой телефонной связи. В 1992 году было создано акционерное общество «Вымпел-Коммуникации», где Зимин стал президентом и генеральным директором"</em></p><p><strong>Ого</strong>, три пивота за 1991 год: из оборонки в спутниковое тв, потом в кабельное тв, потом в сотовую связь.</p> <a href="https://habr.com/ru/post/597325/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597325#habracut">Но даже Билайн - не главная заслуга Зимина</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 01:20:48 GMT</pubDate>
+      <dc:creator>kalupin</dc:creator>
+      <category><![CDATA[Разработка систем связи]]></category><category><![CDATA[История IT]]></category><category><![CDATA[Биографии гиков]]></category><category><![CDATA[Сотовая связь]]></category>
+      <category><![CDATA[зимин]]></category><category><![CDATA[дмитрий зимин]]></category><category><![CDATA[билайн]]></category><category><![CDATA[благотворительность]]></category><category><![CDATA[филантрокапитализм]]></category><category><![CDATA[фонд династия]]></category><category><![CDATA[премия просветитель]]></category><category><![CDATA[великие люди]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Что там у ReactOS?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/596365/</guid>
+      <link>https://habr.com/ru/post/596365/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=596365</link>
+      <description><![CDATA[<p>16 декабря сего года, команда разработчиков ReactOS, спустя долгое время после последнего релиза (с последнего прошло почти полтора года) выпустила новую версию под номером 0.4.14. Это все еще альфа-версия.</p><p>В данной статье мы рассмотрим основные новшества как со стороны разработчиков, так и со стороны сообщества.</p> <a href="https://habr.com/ru/post/596365/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=596365#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 10:04:59 GMT</pubDate>
+      <dc:creator>petr97</dc:creator>
+      <category><![CDATA[Блог компании Фонд ReactOS]]></category><category><![CDATA[C++]]></category><category><![CDATA[API]]></category><category><![CDATA[Реверс-инжиниринг]]></category><category><![CDATA[UEFI]]></category>
+      <category><![CDATA[reactos]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Проверяем код дельфина Flipper Zero на чистоту с помощью PVS-Studio]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597497/</guid>
+      <link>https://habr.com/ru/post/597497/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597497</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/getpro/habr/post_images/108/84d/1d8/10884d1d854ff5f97cd0843adc9b6cb3.png" alt="Проверяем код дельфина Flipper Zero на чистоту с помощью PVS-Studio"><br>
+Flipper Zero — швейцарский нож для гиков и пентестеров с открытым исходным кодом. Так получилось, что пути этого проекта и анализатора PVS-Studio пересеклись. Философский вопрос: начинать ли проверять проект, зная, что авторы проекта уже исправляют ошибки? Попробуем.</p> <a href="https://habr.com/ru/post/597497/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597497#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 13:07:42 GMT</pubDate>
+      <dc:creator>Andrey2008</dc:creator>
+      <category><![CDATA[Блог компании PVS-Studio]]></category><category><![CDATA[Open source]]></category><category><![CDATA[C++]]></category><category><![CDATA[C]]></category><category><![CDATA[Программирование микроконтроллеров]]></category>
+      <category><![CDATA[c]]></category><category><![CDATA[c++]]></category><category><![CDATA[си]]></category><category><![CDATA[си++]]></category><category><![CDATA[Flipper Zero]]></category><category><![CDATA[Flipper Zero dolphin]]></category><category><![CDATA[open source]]></category><category><![CDATA[PVS-Studio]]></category><category><![CDATA[embedded]]></category><category><![CDATA[микроконтроллеры]]></category><category><![CDATA[программирование]]></category><category><![CDATA[программирование микроконтроллеров]]></category><category><![CDATA[открытый исходный код]]></category><category><![CDATA[статический анализ кода]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Сеульская агломерация: трудно быть м̶э̶р̶о̶м̶ богом]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597123/</guid>
+      <link>https://habr.com/ru/post/597123/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597123</link>
+      <description><![CDATA[<a href="https://habr.com/ru/company/ruvds/blog/597123/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/gz/0x/rh/gz0xrh_umxs1gqjm45s7bxlqufi.jpeg"></div></a><br>
+Конечно, Сеул — это совсем не <a href="https://habr.com/ru/company/ruvds/blog/593879/">Токио</a>, не global city, каких всего три на планете (ещё Лондон и Нью-Йорк, в котором я немного учился, есть что рассказать). Не город с самым большим числом ресторанов со звёздами Мишлен или штаб-квартир глобальных корпораций. Сеул — просто другой, как и Корея с её историей, тесно переплётшейся с нашей в XX в. Город пережил японскую оккупацию, восстал из пепла гражданской войны, отстроился, обзавёлся парочкой кейсов городской трансформации, вошедших в учебники урбанистов всего мира. Сегодня он просто дышит свежестью, зеленью, спокойствием и тихой радостью скромного достатка. Но чтобы сохранить и управлять этой красотой нужны железные нервы, воля и кулаки. Здесь «трудно быть богом». Чтобы понять почему и приступить к рассмотрению чисто урбанистических вещей (тут будет вторая часть материала) нужно сначала разобраться в истории становления современной Кореи. <br> <a href="https://habr.com/ru/post/597123/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597123#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 09:00:02 GMT</pubDate>
+      <dc:creator>SergioMalecci</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Урбанизм]]></category><category><![CDATA[Читальный зал]]></category>
+      <category><![CDATA[ruvds_статьи]]></category><category><![CDATA[сеул]]></category><category><![CDATA[урбанизм]]></category><category><![CDATA[города]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Что такое доказательная медицина?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597435/</guid>
+      <link>https://habr.com/ru/post/597435/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597435</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/wp/h4/ow/wph4owpuczuzkd-c5xafv6strcy.jpeg"><br>
+<a href="https://en.wikipedia.org/wiki/Lobotomy#/media/File:Turning_the_Mind_Inside_Out_Saturday_Evening_Post_24_May_1941_a_detail_1.jpg" rel="nofollow noopener noreferrer"><i>Доктор Уолтер Фриман и Джеймс Уоттс планируют лоботомию, чтобы помочь человеку справиться с тревожностью.</i></a><br>
+<br>
+Раньше врачам было отчасти проще. Если ты был достаточно уважаем и авторитетен, то никто не сомневался в твоих методах лечения. Если врач сказал, что надо регулярно устраивать кровопускания и прикладывать примочки на базе соединений ртути, то так и делали. Медицина постепенно развивалась, но до середины XX века методы лечения держались на авторитете отдельных известных учёных и их учеников. Ваша жена очень часто впадает в истерику и нервничает? Ребёнок постоянно капризничает? Не проблема, есть чудесные лоботомобили. Приедут домой и всё поправят.<br>
+<br>
+Процедура заключалась в следующем: <a href="http://content.nejm.org/cgi/content/full/339/23/1719" rel="nofollow noopener noreferrer">нож для колки льда</a> вставлялся в глазницу пациенту. Лёгкий удар молотком по рукоятке пробивал орбитальную стенку. Затем Фриман водил ножом из стороны в сторону, разрушая лобные доли мозга. Метод, разумеется, эффективен, так как разработан уважаемыми людьми и рекомендовался «буйным», шизофреникам и людям, чьё поведение беспокоило окружающих. Люди из буйных становились тихими и покорными инвалидами. До 6% погибли во время операции.<br>
+<br>
+Это уже сейчас у нас появились стандарты <a href="https://ec.europa.eu/health/documents/eudralex/vol-4_en" rel="nofollow noopener noreferrer">GMP</a>, <a href="http://goodtissuepractices.eu/images/outcomes/EuroGTP_Final_Delivery.pdf" rel="nofollow noopener noreferrer">GTP</a>, <a href="https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf" rel="nofollow noopener noreferrer">GCP</a>, этические комитеты, двойные слепые плацебо-контролируемые исследования и всё остальное, что позволяет разрабатывать наиболее эффективные методы лечения. Сегодня мы будем говорить о клинических исследованиях и о том, как работает доказательная медицина:<br>
+<br>
+<ul>
+<li>Можно ли проводить эксперименты на людях и как это сделать этично.</li>
+<li>Когда нельзя давать плацебо. История эксперимента с сифилисом.</li>
+<li>Как проводятся клинические испытания.</li>
+<li>Почему зелёнка — не лучший препарат.</li>
+<li>Новые способы лечения эпилепсии, мигрени и других патологий.</li>
+</ul><br> <a href="https://habr.com/ru/post/597435/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597435#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 11:04:20 GMT</pubDate>
+      <dc:creator>EkaterinaNV</dc:creator>
+      <category><![CDATA[Блог компании Наше время]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Здоровье]]></category>
+      <category><![CDATA[доказательная медицина]]></category><category><![CDATA[эксперименты]]></category><category><![CDATA[клинические испытания]]></category><category><![CDATA[плацебо]]></category><category><![CDATA[лечение]]></category><category><![CDATA[научный метод]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[«Право на забвение» или как просто удалять персональные данные по запросу пользователя]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597155/</guid>
+      <link>https://habr.com/ru/post/597155/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597155</link>
+      <description><![CDATA[<p>Удалять персональные данные пользователя по его запросу, чтобы продукт соответствовал законам CCPA или GDPR, можно по-разному. Хоть вручную каждую заявку на почте разбирать. Главное — сделать процесс максимально простым и понятным для пользователя. А это уже хороший повод задуматься о некоторой автоматизации.</p><p>В статье на примере мобильного приложения iFunny расскажу про систему обработки запросов на удаление данных. Теперь заявки приходят сразу конкретизированными, а саппорт тратит в 2 раза меньше времени на их рассмотрение.</p><p>Под катом — о том, как происходит приём заявки, обработка, выставление статусов, хранение в системе учёта и так далее.</p> <a href="https://habr.com/ru/post/597155/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597155#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 08:30:31 GMT</pubDate>
+      <dc:creator>rjhdby</dc:creator>
+      <category><![CDATA[Блог компании FUNCORP]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Хранение данных]]></category><category><![CDATA[Законодательство в IT]]></category>
+      <category><![CDATA[персональные данные]]></category><category><![CDATA[ccpa]]></category><category><![CDATA[gorp]]></category><category><![CDATA[удаление данных]]></category><category><![CDATA[хранение данных]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[C++ Builder. Есть ли жизнь после смерти? Мнение одного динозавра]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597353/</guid>
+      <link>https://habr.com/ru/post/597353/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597353</link>
+      <description><![CDATA[<p>В этой статье я опишу собственные впечатления о последних версиях среды разработки RADStudio от Embarcadero и, возможно, постараюсь помочь кому-то в ответе на вопрос: «А оно мне надо?».</p><p>Сразу оговорюсь. Все описанное в этой статье является моим личным мнением и любые сравнения и характеристики, являющиеся плюсами или минусами, являются таковыми только для меня и моего способа использования инструментом. Если для Вас какие-то из указанных достоинств или недостатков так же являются таковыми – очень хорошо, но если это не так, то не стоит впадать в берсерк и начинать крестовую войну. Тут никто не воюет.</p> <a href="https://habr.com/ru/post/597353/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597353#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 05:37:00 GMT</pubDate>
+      <dc:creator>JouriM</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category><category><![CDATA[C]]></category>
+      <category><![CDATA[borland]]></category><category><![CDATA[embarcadero]]></category><category><![CDATA[RAD]]></category><category><![CDATA[RADStudio]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Мобильный пробив: что, где, почем. И главное — доколе?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597509/</guid>
+      <link>https://habr.com/ru/post/597509/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597509</link>
+      <description><![CDATA[<p>Я так проникся «клиентоориентированным» отношением операторов связи к своим абонентам, что сделав 4 расследования по скрытым мобильным подпискам, решил пойти дальше и проверить: а как они относятся к персональным данным абонентов?&nbsp;</p><p>Поэтому я решил проверить лично, можно ли получить персональные данные, хранящиеся у сотового оператора, и если да, то как сложно, сколько стоит и как это все выглядит.</p> <a href="https://habr.com/ru/post/597509/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597509#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 13:59:54 GMT</pubDate>
+      <dc:creator>Plusodin</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Сотовая связь]]></category>
+      <category><![CDATA[пробив]]></category><category><![CDATA[пробивон]]></category><category><![CDATA[пробив информации]]></category><category><![CDATA[мтс]]></category><category><![CDATA[мегафон]]></category><category><![CDATA[теле2]]></category><category><![CDATA[билайн]]></category><category><![CDATA[tele2]]></category><category><![CDATA[безопасность данных]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Коля и его истории про фулфилмент]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597129/</guid>
+      <link>https://habr.com/ru/post/597129/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597129</link>
+      <description><![CDATA[Фулфилмент — весь путь вещи, заказанной вами в интернете, до порога вашего дома. Он начинается где-то на далёком складе: вещь нужно найти, собрать и упаковать. Этот этап не всегда простой, он гораздо менее заметен, чем доставка, но не менее интересен. Сейчас я постараюсь вам это доказать. <br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/c_/ch/di/c_chdigkrbz7wfbvgauepsu9af4.png" width="650"></div><br>
+Эффективность процесса зависит от его устройства, но если я сходу попробую объяснить, как устроены склады большого маркетплейса, мой рассказ вызовет много вопросов «Почему так сложно?». Поэтому я начну с основ процесса сборки, а потом постепенно, в несколько шагов, увеличу сложность и покажу, какую задачу решает каждое из усложнений. Мне понравились <a href="https://habr.com/search/?q=%5B%D1%81%D1%82%D0%B0%D0%B6%D1%91%D1%80%20%D0%B2%D0%B0%D1%81%D1%8F%5D&amp;target_type=posts">посты</a> на Хабре про стажёра Васю, поэтому добавлю нового вымышленного персонажа — Колю. Он пройдёт с нами весь путь и настроит процессы на складе. Поехали!<br> <a href="https://habr.com/ru/post/597129/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597129#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 08:04:48 GMT</pubDate>
+      <dc:creator>boris_o</dc:creator>
+      <category><![CDATA[Блог компании Яндекс]]></category><category><![CDATA[Занимательные задачки]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление e-commerce]]></category><category><![CDATA[Развитие стартапа]]></category>
+      <category><![CDATA[фулфилмент]]></category><category><![CDATA[логистика]]></category><category><![CDATA[складская логистика]]></category><category><![CDATA[команда яндекс.маркета]]></category><category><![CDATA[wms]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Флюороз — противоположность кариеса (и проверьте, что за воду вы пьёте)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597411/</guid>
+      <link>https://habr.com/ru/post/597411/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597411</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/fr/zc/mx/frzcmx4m9wfwscanrg0bopxg6-s.jpeg"><br>
+<i>Это не кариес, а флюороз, по таким зубам можно понять, насколько хорошую воду вы пьёте.</i><br>
+<br>
+Хорошая новость: стрептококки не смогут это прогрызть, и флюороз защищает от кариеса. <br>
+Плохая новость: это нарушение эмали и дентина зуба из-за высокого содержания фтора. <br>
+Ещё одна плохая новость: это навсегда. <br>
+<br>
+Чаще всего фтор может быть повышен по двум причинам: <br>
+<br>
+<ol>
+<li>Его очень много в воде, которую мы пьём.</li>
+<li>Его много на производстве, на котором работаем.</li>
+</ol><br>
+Максимальные риски заработать флюороз — у младенцев на искусственном вскармливании и детей до 15 лет, которые пьют воду с повышенным содержанием фтора. Но если вы взрослый человек с флюорозом, то надо помнить, что возникшая форма остаётся с вами на всю жизнь. Тактика лечения зависит от стадии. При лёгкой — это когда на зубах небольшие пятна и штрихи — отбеливание раз в год и реминерализация без фтора. А если случай тяжёлый с изменением коронок зубов за счёт эрозий и отлома частей зубов — виниры и коронки. Это дорого, но зато поможет сохранить зубы.<br>
+<br>
+Поэтому первое, что нужно сделать, — убедиться, что вода, которую вы пьёте, содержит нормальные дозировки фтора. Сейчас расскажу, сколько его должно быть.<br> <a href="https://habr.com/ru/post/597411/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597411#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 11:01:07 GMT</pubDate>
+      <dc:creator>HanovaIrina</dc:creator>
+      <category><![CDATA[Блог компании Белая Радуга]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Здоровье]]></category>
+      <category><![CDATA[флюороз]]></category><category><![CDATA[пятна]]></category><category><![CDATA[здоровье зубов]]></category><category><![CDATA[фтор]]></category><category><![CDATA[стоматология]]></category><category><![CDATA[зубы]]></category><category><![CDATA[эмаль]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как мы выбирали архитектуру и переносили 20-летние монолиты промышленного гиганта на микросервисы]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597283/</guid>
+      <link>https://habr.com/ru/post/597283/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597283</link>
+      <description><![CDATA[<p>Лично я сталкивался с тем, как крупные компании распиливают монолит на микросервисы, но потом не переиспользуют их. Они так и остаются жить в одной системе.  </p><p>Здесь мы делаем микросервисы, не ради микросервисов, а пилим наши монолиты работоспособными частями. То есть, зарефакторили кусок, и производство с ним работает. На каждый - около 3 месяцев. Правда, с таким подходом есть риск улететь в ситуацию, когда микросервисы получаются AS IS, а не в общей идее архитектуры. В поддержке потом их совокупность не лучше монолита.   </p><p>В общем, расскажу, как на практике распиливаются монолиты огромных размеров, которые управляют всем производственным циклом. А размеры ещё те: НЛМК — гигант. Мы делаем 20% стали России и входим в TOP-20 по производству в мире.  </p><p>Сейчас миграция в процессе, делаем послойно уже чуть больше года. Быстрее, чем за 5 лет никто пока не делал, и это считается быстро. Посмотрим, как у нас получится.</p> <a href="https://habr.com/ru/post/597283/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597283#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 07:14:19 GMT</pubDate>
+      <dc:creator>WhiteSteel</dc:creator>
+      <category><![CDATA[Блог компании Группа НЛМК]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Микросервисы]]></category>
+      <category><![CDATA[микросервисы]]></category><category><![CDATA[монолит]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Выбираем инструмент для разметки текста (и не только!)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597021/</guid>
+      <link>https://habr.com/ru/post/597021/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597021</link>
+      <description><![CDATA[<p>Рано или поздно перед любой компанией которая хочет внедрить системы машинного обучения в свою инфрастуктуру встает вопрос разметки данных. Чистые данные в достаточно большом количестве - залог хорошей модели, все мы прекрасно знаем правило&nbsp;<em>"Garbage in - garbage out"</em>. Такой вопрос недавно встал и передо мной. В этом посте я поделюсь своим опытом поиска инструментов для разметки текста и звука под in-house разметчиков, постараюсь описать их плюсы и минусы, а в конце расскажу на чем мы в итоге остановились и что из этого вышло. Задачи на данном этапе относительно стандартные для&nbsp;<strong>NLP</strong>: классификация,&nbsp;<strong>NER</strong>, потенциально также может понадобиться entity-linking и разметка аудио под задачи&nbsp;<strong>ASR</strong>, но это пока менее приоритетно. Инструмент в идеале нужен&nbsp;<em>open-source</em>, но если будет приемлимый ценник за какие-то нужные фичи - мы готовы заплатить.</p><p>Заранее скажу, что этот пост никем не спонсировался, а все написанное ниже является сугубым ИМХО. Также имейте ввиду, что впечатления об использовании различных инструментов были составлены на момент написания статьи - осень-зима 2021-го года. Если вы смотрите на эти инструменты сильно позднее - возможно, информация будет уже не актуальной. Ну а теперь, поехали!</p> <a href="https://habr.com/ru/post/597021/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597021#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 11:14:41 GMT</pubDate>
+      <dc:creator>Overclocked1827</dc:creator>
+      <category><![CDATA[Блог компании Open Data Science]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Искусственный интеллект]]></category>
+      <category><![CDATA[labeling tool]]></category><category><![CDATA[machinelearning]]></category><category><![CDATA[nlp (natural language processing)]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Цифровое сопротивление, или Как китайские разработчики боролись с жестким графиком]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/596931/</guid>
+      <link>https://habr.com/ru/post/596931/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=596931</link>
+      <description><![CDATA[Китайский IT-рынок — как отдельная вселенная. Там нет привычных нам сервисов от крупных компаний из США, а вместо них много локальных продуктов, которые подчас имеют достаточно продвинутый функционал. Но достигается такой результат достаточно жестоким способом, который недалеко ушёл от древних китайских пыток.<br>
+<br>
+Изнурительный график работы 996, названный так за то, что сотрудники должны работать с 9 утра до 9 вечера, шесть дней в неделю, сохраняется в китайских компаниях уже много лет, несмотря на постоянное возмущение общественности. Даже соучредитель Alibaba Джек Ма однажды назвал его «огромным благословением». Но что для миллиардеров — благословение, для обычных работников обычно означает работу до смерти (в буквальном смысле). Тем не менее некоторые пытаются с этим бороться.<br>
+<br>
+<a href="https://habr.com/ru/company/getmeit/blog/596931/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/_p/ca/pg/_pcapg00n1klkyc3npzbnqkkf9s.png"></div></a><br> <a href="https://habr.com/ru/post/596931/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=596931#habracut">Приятного чтения!</a>]]></description>
+      
+      <pubDate>Wed, 22 Dec 2021 17:37:04 GMT</pubDate>
+      <dc:creator>Doublesharp</dc:creator>
+      <category><![CDATA[Блог компании Get me IT]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Законодательство в IT]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[IT-компании]]></category>
+      <category>get me it</category><category>карьера</category><category>персонал</category><category>график работы</category><category>работа и отдых</category><category>здоровье</category><category>законодательство и ит</category><category>управление персоналом</category><category>овертайм</category><category>переработка</category><category>карьера программиста</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Их тяжкая работа важней иных работ. Как пауки плетут графен]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597479/</guid>
+      <link>https://habr.com/ru/post/597479/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597479</link>
+      <description><![CDATA[<p>Мне давно хотелось посвятить одну из статей такой теме, которая при поверхностном ознакомлении напоминает об «игнобелевской премии», но на самом деле обладает большим практическим потенциалом, в том числе, в промышленных масштабах. И вот такая тема нашлась. В моем блоге я не раз обращался к бионике и даже (немного) к биоинформатике, но сегодня тема будет по-настоящему экстравагантной. </p><p>Уже поставлены первые удачные опыты по производству сверхпрочной паутины с включением графена и нанотрубок. Для этого достаточно поить пауков водой с содержанием графена. Этот опыт в 2015 году провела группа ученых под руководством Николы Пуньо (Nicola Pugno) в университете итальянского города Тренто. Графен и нанотрубки включаются в состав паутины, и такие паучьи нити получаются как минимум впятеро прочнее обычных. Они даже выдерживают вес взрослого человека. Опыт был поставлен в 2015 году, о чем даже <a href="https://habr.com/ru/post/379151/" rel="noopener noreferrer nofollow">была новость</a> на Хабре – на чем тема и показалась исчерпанной (пошутили про хоббитов и Унголианту). На самом же деле, работа Пуньо заострила внимание на том, что паутина, а также нити шелкопрядов демонстрируют более широкое свойство метаболизма членистоногих: их ткани легко интегрируются с металлами и даже полупроводниками, что позволяет разрабатывать совершенно новые материалы и датчики. Далее я расскажу, какие достижения в этой области бионики получены к настоящему времени.</p> <a href="https://habr.com/ru/post/597479/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597479#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 12:43:44 GMT</pubDate>
+      <dc:creator>OlegSivchenko</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category><category><![CDATA[Биотехнологии]]></category><category><![CDATA[Нанотехнологии]]></category><category><![CDATA[Химия]]></category><category><![CDATA[Будущее здесь]]></category>
+      <category><![CDATA[графен]]></category><category><![CDATA[бионика]]></category><category><![CDATA[паутина]]></category><category><![CDATA[шелк]]></category><category><![CDATA[новые материалы]]></category><category><![CDATA[животноводство]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[В тепличных условиях: Wi-Fi сеть для агрокомбината]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597475/</guid>
+      <link>https://habr.com/ru/post/597475/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597475</link>
+      <description><![CDATA[Бывают проекты сравнительно простые, например, развернуть сеть для посетителей парка. Если погода хорошая, работать — одно удовольствие. А бывают, как этот — в условиях, которые для людей, в общем-то, и не предназначены, ведь на фермах все делается так, чтобы хорошо было растениям, а не сетевым инженерам и тем более электронике.<br>
+<br>
+Меня зовут Виктор Беляев, я работаю инженером в КРОК и занимаюсь проектами, связанными с беспроводными сетями. Расскажу, как мы делали Wi-Fi для крупного агрокомбината, и не только в административно-бытовых помещениях, но и внутри теплиц. <a href="https://habr.com/ru/post/597475/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597475#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 13:13:35 GMT</pubDate>
+      <dc:creator>V-Belyaev</dc:creator>
+      <category><![CDATA[Блог компании КРОК]]></category><category><![CDATA[Беспроводные технологии]]></category><category><![CDATA[Сетевое оборудование]]></category>
+      <category><![CDATA[wi-fi]]></category><category><![CDATA[БЛВС]]></category><category><![CDATA[IoT]]></category><category><![CDATA[коммутаторы huawei]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Зелёная гонка уже началась: солнечная энергетика вырывается вперёд]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/595547/</guid>
+      <link>https://habr.com/ru/post/595547/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=595547</link>
+      <description><![CDATA[В начале 2021 года в этом блоге вышла статья «<a href="https://habr.com/ru/company/ruvds/blog/511500/">Зелёная энергетика — космическая гонка XXI века</a>», основной идеей которой было: крупнейшие экономики мира, США, Китай и Евросоюз, слегка заминаясь, стоят на пороге больших стартов XXI века: масштабной энергетической революции, перехода от ископаемых источников топлива с их вредными выхлопами к возобновимым. Основной идеей статьи было: пока никто не может решиться открыть этот забег, но когда он начнётся — никто не захочет оказаться у финиша последним. К концу года стало очевидно: зелёная гонка уже началась. <br>
+<br>
+<ul>
+<li>Апрель 2020: рекордные 52% домашнего энергопотребления Германии в первом квартале 2020 — из возобновляемых источников энергии.</li>
+<li>Апрель 2021: правящая консервативная партия Ангелы Меркель в коалиции с социал-демократами договорились довести долю возобновляемых источников энергии с 50% в 2020 до 65% в 2030.</li>
+</ul><br>
+<a href="https://habr.com/ru/company/ruvds/blog/595547/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/mk/ul/9w/mkul9wuxcdi9iaeay2ltti4ysl8.png"></div></a><i><font color="#999999">Иронично: сторонники атомной энергетики, не желающие пользоваться услугами крупнейшего термоядерного реактора в радиусе нескольких световых лет от Земли</font></i><br> <a href="https://habr.com/ru/post/595547/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=595547#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 13:00:02 GMT</pubDate>
+      <dc:creator>EgorKotkin</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Будущее здесь]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Энергия и элементы питания]]></category>
+      <category><![CDATA[новая индустриализация]]></category><category><![CDATA[возобновляемая энергетика]]></category><category><![CDATA[ruvds_статьи]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Ренессанс постоянного тока: как HVDC спасли переменный ток]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597455/</guid>
+      <link>https://habr.com/ru/post/597455/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597455</link>
+      <description><![CDATA[<p>В мире, казалось бы, победившего переменного тока назревает — нет, не революция, но органичная эволюция: постоянный ток не просто возвращается, а претендует на лавры победителя. Инвестиции в возобновляемые источники энергии и трансграничная передача электричества сделали высоковольтные сети постоянного тока как никогда актуальными. В этом посте мы рассказываем, почему постоянный ток уступил току переменному и как спустя век после «Войны токов» постоянный ток взял реванш.</p> <a href="https://habr.com/ru/post/597455/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597455#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 11:42:03 GMT</pubDate>
+      <dc:creator>toshiba_ru</dc:creator>
+      <category><![CDATA[Блог компании Toshiba]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Энергия и элементы питания]]></category><category><![CDATA[Будущее здесь]]></category>
+      <category><![CDATA[энергосеть]]></category><category><![CDATA[постоянный ток]]></category><category><![CDATA[переменный ток]]></category><category><![CDATA[HVDC]]></category><category><![CDATA[электричество]]></category><category><![CDATA[тошиба]]></category><category><![CDATA[toshiba]]></category><category><![CDATA[научно-популярное]]></category><category><![CDATA[научпоп]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[«Подумаешь, бином Ньютона!» Почему внедрение CRM терпит фиаско]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/597431/</guid>
+      <link>https://habr.com/ru/post/597431/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597431</link>
+      <description><![CDATA[<p>Бывают такие сотрудники: возьмут задачи, утащат их на своё рабочее место и упорно делают, дотошно разбираясь даже в тех вопросах, которые уточнить у коллег&nbsp; —&nbsp; дело трёх минут. Они не спрашивают, не делегируют, не координируют работу с командой. Конечно, можно списать такое поведение на интроверсию, можно порадоваться глубине их погружения в тему и тщательно выполненной работе. Но нет: на выходе мы получаем затягивание выполнения задач, несогласованность с актуальными бизнес-процессами, сбой в командной работе, перегрузку сотрудника и инфантильную ревность к каждому заданию. Получается странное: и сотрудник хороший, и к знаниям рвётся (ну не осуждать же его за это!), и работа сделана, но это настолько долго и неэффективно, что просто… уже никому не надо. </p> <a href="https://habr.com/ru/post/597431/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=597431#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 23 Dec 2021 10:20:47 GMT</pubDate>
+      <dc:creator>Axelus</dc:creator>
+      <category><![CDATA[Блог компании RegionSoft]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[CRM-системы]]></category><category><![CDATA[Софт]]></category>
+      <category><![CDATA[crm]]></category><category><![CDATA[внедрение crm]]></category><category><![CDATA[crm система]]></category><category><![CDATA[crm-системы]]></category><category><![CDATA[crm-технологии]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
